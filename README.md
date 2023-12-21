@@ -5,7 +5,7 @@ Welcome to the Starfield Simulation repository! This project is a Java implement
 Download and install the Processing IDE from Processing's website. (https://processing.org/)
 
 # Open in Processing
-Open the Starfield.pde & Star.pde file using the Processing IDE.
+Open the "Starfield.pde" & "Star.pde" file using the Processing IDE.
 
 # Run the Sketch
 Click the "Run" button in the Processing IDE, and experience the captivating starfield simulation!
